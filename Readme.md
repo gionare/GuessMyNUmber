@@ -2,6 +2,8 @@
 
 Welcome to the Guess My Number game, a simple and interactive number guessing game with a minimalist design. Try to guess the correct number and beat your highscore!
 
+![Screenshot](assets/gameplay.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -53,4 +55,4 @@ The combination of these technologies results in an engaging and interactive num
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/guess-my-number.git
+git clone https://github.com/gionare/GuessMyNUmber.git
