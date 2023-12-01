@@ -2,6 +2,8 @@
 
 Welcome to the Guess My Number game, a simple and interactive number guessing game with a minimalist design. Try to guess the correct number and beat your highscore!
 
+![Screenshot](/home/gionare/Documents/Repos/GuessMyNubmer/assets/Screenshot from 2023-12-01 16-45-13.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
